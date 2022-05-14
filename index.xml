@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Oussama Oulkaid</title>
+    <link>https://oulkaid.github.io/</link>
+    <description>Recent content in Home on Oussama Oulkaid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://oulkaid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://oulkaid.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oulkaid.github.io/resume/</guid>
+      <description>2021 &amp;ndash;&amp;gt; 2022:  Grenoble Institute of Technology, Grenoble - France  Master of Science in Informatics at Grenoble, Software and Hardware Componenets Engineering Spring / Summer 2022:  five-months research internship at Verimag laboratory (Grenoble - France)  Applying symbolic model-checking techniques to circuit electric verification     2020 &amp;ndash;&amp;gt; 2021:  Grenoble Institute of Technology, Grenoble - France  Engineer&amp;rsquo;s degree in Embedded Systems and Connected Devices Spring / Summer 2021:  six-months internship at Schneider Electric, Grenoble - France  Implementation and test of Zigbee Direct; a feature that enables Bluetooth Low Energy capable devices</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://oulkaid.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oulkaid.github.io/projects/</guid>
+      <description>Sudoku Solver  A tool for solving Sudoku problems (up to 25x25 grid size) using two methods: (1) mapping it to SAT clauses, by exploiting the Z3 theorem prover by Microsoft (API available for Python), and (2) by implementing a chronological backtracking algorithm.
+ RISC-V Based Processor Control Flow Checking By Signature Verification The aim of this project is to ensure the security of programs executed on a processor based on RISC-V architecture.</description>
+    </item>
+    
+  </channel>
+</rss>
