@@ -5,5 +5,8 @@ all:
 	(cd $(SITE) && hugo)
 	cp -r $(PUBLIC)/* .
 
+demo:
+	(cd $(SITE) && hugo server -D)
+
 clean:
-	rm -rf *.html *.xml about/ categories/ css/ note/ post/ resume/ tag/
+	rm -rf *.html *.xml about/ categories/ css/ note/ post/ resume/ tags/ pic/ projects/
