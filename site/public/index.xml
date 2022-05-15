@@ -25,8 +25,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://oulkaid.github.io/projects/</guid>
-      <description>Sudoku Solver  A tool for solving Sudoku problems (up to 25x25 grid size) using two methods: (1) mapping it to SAT clauses, by exploiting the Z3 theorem prover by Microsoft (API available for Python), and (2) by implementing a chronological backtracking algorithm.
- RISC-V Based Processor Control Flow Checking By Signature Verification The aim of this project is to ensure the security of programs executed on a processor based on RISC-V architecture.</description>
+      <description>2022  Sudoku Solver  A tool for solving Sudoku problems (up to 25x25 grid size) using two methods: (1) mapping it to SAT clauses, by exploiting the Z3 theorem prover by Microsoft (API available for Python), and (2) by implementing a chronological backtracking algorithm.
+ 2021  RISC-V based Processor Control-Flow-Checking by Signature Verification The aim of this project is to ensure the security of programs executed on a processor based on RISC-V architecture.</description>
     </item>
     
   </channel>
