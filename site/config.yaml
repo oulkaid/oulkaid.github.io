@@ -9,14 +9,14 @@ footnotereturnlinkcontents: "↩"
 
 menu:
   main:
-    - name: Home
+    - name: About
       url: ""
       weight: 1
-    - name: Curriculum Vitae
-      url: "resume/"
+    - name: Past
+      url: "past/"
       weight: 2
-    - name: Projects
-      url: "projects/"
+    - name: Portfolio
+      url: "portfolio/"
       weight: 3
 
 params:

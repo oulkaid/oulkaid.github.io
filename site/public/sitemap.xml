@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://oulkaid.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://oulkaid.github.io/resume/</loc>
-  </url>
-  
-  <url>
     <loc>https://oulkaid.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://oulkaid.github.io/projects/</loc>
+    <loc>https://oulkaid.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://oulkaid.github.io/past/</loc>
+  </url>
+  
+  <url>
+    <loc>https://oulkaid.github.io/portfolio/</loc>
   </url>
   
   <url>

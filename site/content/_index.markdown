@@ -1,15 +1,22 @@
 ---
-title: Home
+title: About
 ---
 
 <img src="pic/oussama.jpg" alt="photo" style="float: right;" width="100"/>
 
-# Welcome
+# Oussama Oulkaid
+ Intern at the [VERIMAG](https://www-verimag.imag.fr/) research laboratory in Grenoble, France, since february 2022
 
-I'm Oussama Oulkaid, Student in Computer Science at the Grenoble Institute of Technology. \
-My interests include embedded systems, and formal verification techniques.
+ Student in [Master of Science in Informatics at Grenoble](https://mosig.imag.fr/),
+ [Software and Hardware Components Engineering](https://mosig.imag.fr/SHCE/SHCE/)
+at [Grenoble Institute of Technology](https://www.grenoble-inp.fr/) in Grenoble, France, since september 2021
 
-From february to july 2022, I'm working on my master thesis at the _Verimag_ research laboratory in Grenoble - France.
-
-    Oussama (dot) Oulkaid (at) Grenoble-INP (dot) org
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Contact</b></p>
+<p style='margin-left:1em;'>
+<p style='margin-top:1em; text-align:center'> Oussama (dot) Oulkaid (at) grenoble-inp (dot) org </p>
+</p></span>
+</div>
 
