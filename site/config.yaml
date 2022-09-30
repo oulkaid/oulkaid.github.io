@@ -7,18 +7,6 @@ disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 footnotereturnlinkcontents: "↩"
 
-menu:
-  main:
-    - name: About
-      url: ""
-      weight: 1
-    - name: Past
-      url: "past/"
-      weight: 2
-    - name: Portfolio
-      url: "portfolio/"
-      weight: 3
-
 params:
   description: "A website built through Hugo and blogdown."
   footer: "&copy; {Year} Oussama Oulkaid | Based on [hugo-xmin](https://github.com/yihui/hugo-xmin) theme by [Yihui Xie](https://yihui.org)"
@@ -29,3 +17,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+enableemoji: true
+
