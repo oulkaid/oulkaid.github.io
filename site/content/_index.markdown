@@ -25,6 +25,5 @@ The industrial side is supervised by [Mehdi Khosravian](https://www.lamsade.daup
 Here is my [short resume](short-resume.pdf).
 
 ## CONTACT
-Office 297, VERIMAG laboratory, Bâtiment IMAG, 700 Avenue Centrale, Saint Martin d'Hères 38401, France
-
+Office 297, VERIMAG laboratory, Bâtiment IMAG, 700 Avenue Centrale, Saint Martin d'Hères 38401, France \
 Oussama\.Oulkaid@ens-lyon.fr
