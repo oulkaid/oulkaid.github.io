@@ -5,10 +5,6 @@
     <link>https://perso.ens-lyon.fr/oussama.oulkaid/tags/</link>
     <description>Recent content in Tags on Oussama Oulkaid</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://perso.ens-lyon.fr/oussama.oulkaid/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://perso.ens-lyon.fr/oussama.oulkaid/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
