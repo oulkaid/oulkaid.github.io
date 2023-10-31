@@ -1,6 +1,0 @@
-# Configure path to css files
-- In: site/themes/xmin/layouts/partials/header.html
-	- Verify that the right path is specified for css files
-	- Verify conformity with html files in the website root (e.g., index.html, 404.html ...) and the "base url"
-* Options: relURL, absURL
-
